@@ -1,0 +1,8 @@
+Initial T-Test:
+T-Statistic: -1.4674061684888973, P-Value: 0.14226683684819097
+
+Cleaned Data T-Test:
+T-Statistic: -49.53713103717765, P-Value: 0.0
+
+Pre-Experiment T-Test:
+T-Statistic: 11.402253614177775, P-Value: 4.0963078182616126e-30
